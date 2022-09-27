@@ -1,0 +1,13 @@
+.Notes
+{
+    border: 1px solid silver;
+    display: inline-block;
+    max-width: 200px;
+    border-radius: 5px;
+    padding: 15px;
+    cursor: pointer;
+}
+.Notes:hover
+{
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.300),-1px -1px 3px rgba(0, 0, 0, 0.09);
+}
